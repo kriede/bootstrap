@@ -5,8 +5,8 @@
  */
 
 /*!
- * Generated using the Bootstrap Customizer (http://getbootstrap.com/customize/?id=a72af2379b40542a458b)
- * Config saved to config.json and https://gist.github.com/a72af2379b40542a458b
+ * Generated using the Bootstrap Customizer (http://getbootstrap.com/customize/?id=454d08b10c3ca7a56da9)
+ * Config saved to config.json and https://gist.github.com/454d08b10c3ca7a56da9
  */
 /*!
  * Bootstrap v3.3.6 (http://getbootstrap.com)
@@ -1088,7 +1088,7 @@ html {
   -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
 }
 body {
-  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family: "Segoe UI", "Segoe", Tahoma, Helvetica, Arial, sans-serif;
   font-size: 14px;
   line-height: 1.42857143;
   color: #333333;
@@ -2569,10 +2569,10 @@ output {
   transition: border-color ease-in-out .15s, box-shadow ease-in-out .15s;
 }
 .form-control:focus {
-  border-color: #66afe9;
+  border-color: #f28d4f;
   outline: 0;
-  -webkit-box-shadow: inset 0 1px 1px rgba(0,0,0,.075), 0 0 8px rgba(102, 175, 233, 0.6);
-  box-shadow: inset 0 1px 1px rgba(0,0,0,.075), 0 0 8px rgba(102, 175, 233, 0.6);
+  -webkit-box-shadow: inset 0 1px 1px rgba(0,0,0,.075), 0 0 8px rgba(242, 141, 79, 0.6);
+  box-shadow: inset 0 1px 1px rgba(0,0,0,.075), 0 0 8px rgba(242, 141, 79, 0.6);
 }
 .form-control::-moz-placeholder {
   color: #999999;
@@ -4773,8 +4773,8 @@ a.label:focus {
   vertical-align: middle;
   white-space: nowrap;
   text-align: center;
-  background-color: #777777;
-  border-radius: 10px;
+  background-color: #e84e0e;
+  border-radius: 6px;
 }
 .badge:empty {
   display: none;
@@ -4797,7 +4797,7 @@ a.badge:focus {
 .list-group-item.active > .badge,
 .nav-pills > .active > a > .badge {
   color: #f28d4f;
-  background-color: #ffffff;
+  background-color: #e84e0e;
 }
 .list-group-item > .badge {
   float: right;
@@ -5559,7 +5559,7 @@ button.list-group-item-danger.active:focus {
   position: absolute;
   z-index: 1070;
   display: block;
-  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family: "Segoe UI", "Segoe", Tahoma, Helvetica, Arial, sans-serif;
   font-style: normal;
   font-weight: normal;
   letter-spacing: normal;
@@ -5677,7 +5677,7 @@ button.list-group-item-danger.active:focus {
   display: none;
   max-width: 276px;
   padding: 1px;
-  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family: "Segoe UI", "Segoe", Tahoma, Helvetica, Arial, sans-serif;
   font-style: normal;
   font-weight: normal;
   letter-spacing: normal;
